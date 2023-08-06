@@ -1,6 +1,6 @@
+<img align="center" alt="codding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 # I_am💫 Simonwachira7318 :
 Aspiring Software Engineer | Passionate about crafting clean and efficient code. WEB DESIGN<br>-/BOOTSTRAP/HTML/JS/CSS/PHP/JAVA/C/-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Itś Wachira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__wachira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-wachira) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Its_wachira2) 
