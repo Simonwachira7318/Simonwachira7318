@@ -1,3 +1,4 @@
+![logo](https://github.com/Simonwachira7318/Simonwachira7318/blob/main/git.%20bunner.jpg)
 # I_am💫 Simonwachira7318 :
 Aspiring Software Engineer | Passionate about crafting clean and efficient code. WEB DESIGN<br>-/BOOTSTRAP/HTML/JS/CSS/PHP/JAVA/C/-
 ## 🌐 Socials:
