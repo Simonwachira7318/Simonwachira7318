@@ -1,4 +1,4 @@
-![logo](https://github.com/Simonwachira7318/Simonwachira7318/blob/main/github_cover.png)
+![logo](https://github.com/Simonwachira7318/Simonwachira7318/blob/main/cover.png?raw=true)
 # I am Simon Wachira💫
 Aspiring Software Engineer || Passionate about crafting clean and efficient code.<br>
 ### ✍️ Today's Quote...
