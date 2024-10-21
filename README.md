@@ -1,6 +1,6 @@
 ![logo](https://github.com/Simonwachira7318/Simonwachira7318/blob/main/cover.png?raw=true)
 # I am Simon Wachira 💫
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&width=1000&lines=Aspiring+Software+Engineer;Passionate+about+crafting+clean+%26+efficient+code;Experienced+in+Frontend,+Backend+and+Mobile+Apps+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&width=1000&lines=An+Aspiring+Software+Engineer;Passionate+about+crafting+clean+%26+efficient+code;Experienced+in+Frontend,+Backend+and+Mobile+Apps+Development)](https://git.io/typing-svg)
 
 
 I am driven by my passion for developing innovative software solutions and creating user-centric designs. With over 3 years of experience, I specialize in web development, mobile applications, and UI/UX design. My goal is to blend aesthetics with functionality, always striving to write efficient, clean, and scalable code. I'm committed to continuous learning and improving my technical skills in the ever-evolving tech landscape.
