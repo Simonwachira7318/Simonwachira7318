@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=0FCCCE&center=true&vCenter=true&width=500&lines=~/simon/about.me;Loading+profile+data...;Initialization+complete!" alt="Profile Loading Animation">
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <h3>👨‍💻 Profile</h3>
