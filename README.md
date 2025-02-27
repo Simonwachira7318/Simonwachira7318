@@ -14,43 +14,56 @@
 </div>
 
 <!-- About Me with Enhanced Creative Cards -->
+<!-- About Me with Creative Cards -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=0FCCCE&center=true&vCenter=true&width=500&lines=~/simon/about.me;Loading+profile+data...;Initialization+complete!" alt="Profile Loading Animation">
 </div>
 
 <div align="center">
-  <table align="center" width="100%" border="0" cellspacing="0" cellpadding="10" style="border-collapse: separate; border-spacing: 0 15px;">
-    <tr>
-      <td align="center" style="background-color: rgba(15, 204, 206, 0.05); border-radius: 16px; border: 1px solid rgba(15, 204, 206, 0.2); padding: 25px;">
-        <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" width="30" height="30" alt="Tech"> <b>Profile</b></h3>
-        
-        <img width="200" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball">
-        
-        <div align="left">
-          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="20" height="20" alt="Name"> <b>Name:</b> Simon Wachira Maina</p>
-          
-          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" height="20" alt="Title"> <b>Title:</b> Software Engineer & Creative Director</p>
-          
-          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Africa.png" width="20" height="20" alt="Location"> <b>Location:</b> Kutus, Kirinyaga County, Kenya</p>
-          
-          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="20" height="20" alt="Email"> <b>Email:</b> simonwachira7318@gmail.com</p>
-          
-          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="20" height="20" alt="Phone"> <b>Phone:</b> +254 115256 304</p>
-          
-          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="20" height="20" alt="About"> <b>About Me:</b> Passionate software engineer with a knack for creating elegant, efficient solutions to complex problems. I enjoy transforming ideas into reality through code.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <kbd>
+    <br>
+    <h3>👨‍💻 Profile</h3>
+    <img width="200" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball">
+    <ul align="left">
+      <li><b>👤 Name:</b> Simon Wachira Maina</li>
+      <li><b>💼 Title:</b> Software Engineer & Creative Director</li>
+      <li><b>📍 Location:</b> Kutus, Kirinyaga County, Kenya</li>
+      <li><b>📧 Email:</b> simonwachira7318@gmail.com</li>
+      <li><b>📱 Phone:</b> +254 115256 304</li>
+      <li><b>💭 About Me:</b> Passionate software engineer with a knack for creating elegant, efficient solutions</li>
+    </ul>
+    <br>
+  </kbd>
 </div>
 
+<!-- Quick Stats Section -->
+<p align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=0FCCCE&center=true&vCenter=true&width=500&lines=~/simon/stats.sh;Generating+statistics...;Stats+ready!" alt="Stats Loading Animation">
+</p>
+
+<div align="center">
+  
+  | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" alt="Projects"><br>**10+**<br>Projects | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="40" height="40" alt="Experience"><br>**2+**<br>Years Experience | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="40" height="40" alt="Technologies"><br>**15+**<br>Technologies | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Clients"><br>**5+**<br>Happy Clients |
+  |---|---|---|---|
+  
+</div>
+
+<!-- Current Focus -->
+<div align="center">
+  <h4>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="20" height="20" alt="Current Focus">
+    <b>Currently focusing on:</b>
+  </h4>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0FCCCE&center=true&vCenter=true&width=250&lines=Cloud+Architecture;React+Native+Development;UI%2FUX+Design;Machine+Learning" alt="Current Focus">
+</div>
 <!-- Quick Stats Section -->
 <div align="center">
   <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" alt="Projects">
-        <h4>10+</h4>
+        <h4>70+</h4>
         <p>Projects</p>
       </td>
       <td align="center" width="25%">
