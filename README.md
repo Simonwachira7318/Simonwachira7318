@@ -1,6 +1,6 @@
 <!-- Header Banner with Animated Code Effect -->
 <div align="center">
-  <img src="https://github.com/Simonwachira7318/Simonwachira7318/blob/main/cover.png?raw=true" alt="Simon Wachira Banner" width="100%">
+<!--   <img src="https://github.com/Simonwachira7318/Simonwachira7318/blob/main/cover.png?raw=true" alt="Simon Wachira Banner" width="100%"> -->
 </div>
 
 <!-- Animated Typing Name -->
