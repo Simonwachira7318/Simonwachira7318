@@ -36,27 +36,7 @@
   </kbd>
 </div>
 
-<!-- Quick Stats Section -->
-<p align="center">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=0FCCCE&center=true&vCenter=true&width=500&lines=~/simon/stats.sh;Generating+statistics...;Stats+ready!" alt="Stats Loading Animation">
-</p>
 
-<div align="center">
-  
-  | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" alt="Projects"><br>**10+**<br>Projects | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="40" height="40" alt="Experience"><br>**2+**<br>Years Experience | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="40" height="40" alt="Technologies"><br>**15+**<br>Technologies | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Clients"><br>**5+**<br>Happy Clients |
-  |---|---|---|---|
-  
-</div>
-
-<!-- Current Focus -->
-<div align="center">
-  <h4>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="20" height="20" alt="Current Focus">
-    <b>Currently focusing on:</b>
-  </h4>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0FCCCE&center=true&vCenter=true&width=250&lines=Cloud+Architecture;React+Native+Development;UI%2FUX+Design;Machine+Learning" alt="Current Focus">
-</div>
 <!-- Quick Stats Section -->
 <div align="center">
   <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
