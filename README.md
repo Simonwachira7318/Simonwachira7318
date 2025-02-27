@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25"/> Profile</h3>
+      <h3>👨‍💻 Profile</h3>
       <img width="200" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball">
       <ul>
         <li><b>Name:</b> Simon Wachira Maina</li>
@@ -35,7 +35,7 @@
 </table>
 
 <!-- Education Section with Timeline -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25"/> Education Journey</h3>
+<h3>🎓 Education Journey</h3>
 
 <div align="center">
   <table>
@@ -61,15 +61,14 @@
 </div>
 
 <!-- Experience Timeline with Cards -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25"/> Professional Journey</h3>
+<h3>💼 Professional Journey</h3>
 
 <div align="center">
   <!-- Timeline style with cards -->
   <table>
     <tr>
       <td align="center" width="33%">
-        <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" alt="Creative Director">
-        <h4>Creative Director</h4>
+        <h4>🎛️ Creative Director</h4>
         <p>Paveeria Tech Solutions</p>
         <p><i>2024</i></p>
         <ul align="left">
@@ -80,8 +79,7 @@
         </ul>
       </td>
       <td align="center" width="33%">
-        <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Web Designer">
-        <h4>Web Designer</h4>
+        <h4>🎨 Web Designer</h4>
         <p>Paveeria Tech Solutions</p>
         <p><i>2023 - 2024</i></p>
         <ul align="left">
@@ -91,8 +89,7 @@
         </ul>
       </td>
       <td align="center" width="33%">
-        <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Web Developer">
-        <h4>Web Developer</h4>
+        <h4>⌨️ Web Developer</h4>
         <p>Jalicom Interiors</p>
         <p><i>2022 - 2023</i></p>
         <ul align="left">
@@ -105,8 +102,8 @@
   </table>
 </div>
 
-<!-- Key Achievements with Progress Bars -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25"/> Key Achievements</h3>
+<!-- Key Achievements with Text-Based Progress -->
+<h3>🏆 Key Achievements</h3>
 
 <table>
   <tr>
@@ -114,7 +111,7 @@
       <div>
         <h4>E-commerce Platform</h4>
         <p>Increased sales by 40% within six months</p>
-        <img src="https://progress-bar.dev/40?title=Sales&width=340&color=0FCCCE" alt="40% Sales Increase">
+        <p>█████████████████████░░░░░░░░░░░░ 40%</p>
       </div>
     </td>
   </tr>
@@ -123,7 +120,7 @@
       <div>
         <h4>Web Application</h4>
         <p>Enhanced user engagement by 30%</p>
-        <img src="https://progress-bar.dev/30?title=Engagement&width=340&color=0FCCCE" alt="30% Engagement Increase">
+        <p>████████████████░░░░░░░░░░░░░░░░ 30%</p>
       </div>
     </td>
   </tr>
@@ -132,12 +129,11 @@
       <div>
         <h4>Website Redesign</h4>
         <p>Improved load times and usability by 25%</p>
-        <img src="https://progress-bar.dev/25?title=Performance&width=340&color=0FCCCE" alt="25% Performance Improvement">
+        <p>█████████████░░░░░░░░░░░░░░░░░░░ 25%</p>
       </div>
     </td>
   </tr>
 </table>
-
 
 <!-- Daily Quote with Terminal Style -->
 <div align="center">
@@ -146,7 +142,7 @@
 </div>
 
 <!-- Connect Block with Teal Terminal Style -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="25" height="25" /> Connect with me</h2>
+<h2>📡 Connect with me</h2>
 
 <div align="left">
   <a href="https://www.facebook.com/profile.php?id=100071584461977">
@@ -170,7 +166,7 @@
 </div>
 
 <!-- Tech Stack with Neon Icons -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 
 <details open>
 <summary><b>Frontend Development</b></summary>
@@ -233,7 +229,7 @@
 </details>
 
 <!-- Advanced Skills with Hexagonal Grid -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Advanced Specializations</h2>
+<h2>⚙️ Advanced Specializations</h2>
 
 <div align="center">
   <table>
@@ -262,9 +258,8 @@
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,nginx&theme=light" alt="Advanced Skills Icons" />
 </div>
 
-
 <!-- GitHub Stats with Teal Theme -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Simonwachira7318&show_icons=true&theme=tokyonight&hide_border=true&title_color=0FCCCE&icon_color=0FCCCE&text_color=FFFFFF&bg_color=0D1117" height="170px"/>
@@ -272,41 +267,35 @@
 </div>
 
 <!-- Philosophy with Visual Elements -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Philosophy</h2>
+<h2>💡 Philosophy</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain">
-        <h4>Continuous Learning</h4>
+        <h4>🧠 Continuous Learning</h4>
         <p>Staying ahead through constant growth</p>
       </td>
       <td align="center">
-        <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Ear.png" alt="Ear">
-        <h4>Feedback-Driven</h4>
+        <h4>👂 Feedback-Driven</h4>
         <p>Embracing input to improve & refine</p>
       </td>
       <td align="center">
-        <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle">
-        <h4>Problem Solver</h4>
+        <h4>🧩 Problem Solver</h4>
         <p>Finding innovative solutions to challenges</p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="Teamwork">
-        <h4>Collaborative</h4>
+        <h4>🫂 Collaborative</h4>
         <p>Working together to achieve more</p>
       </td>
       <td align="center">
-        <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Strength">
-        <h4>Growth Mindset</h4>
+        <h4>💪 Growth Mindset</h4>
         <p>Viewing challenges as opportunities</p>
       </td>
       <td align="center">
-        <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket">
-        <h4>Innovation</h4>
+        <h4>🚀 Innovation</h4>
         <p>Pushing boundaries & creating impact</p>
       </td>
     </tr>
@@ -319,11 +308,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=0FCCCE&center=true&vCenter=true&width=600&lines=Let's+collaborate+and+build+something+amazing+together!" alt="Collaboration Invitation">
 </div>
 
-
 <!-- Footer with Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="60" height="60">
-  <p>Thanks for visiting my profile! Let's connect and build something amazing together.</p>
+  <p>👨‍💻 Thanks for visiting my profile! Let's connect and build something amazing together.</p>
 </div>
 
 <!-- Visitor Count -->
