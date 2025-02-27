@@ -1,5 +1,81 @@
 <!-- Header Banner with Animated Code Effect -->
 <div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 400">
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+    
+    <!-- Glowing effect for code particles -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <!-- Profile picture mask for circular crop -->
+    <clipPath id="circleClip">
+      <circle cx="240" cy="200" r="120" />
+    </clipPath>
+    
+    <!-- Profile picture placeholder with note to replace URL -->
+    <pattern id="profileImage" patternUnits="userSpaceOnUse" width="240" height="240">
+      <!-- This is a placeholder. Replace with your actual profile picture URL -->
+      <rect width="240" height="240" fill="#0FCCCE" opacity="0.3" />
+      <text x="120" y="120" font-family="monospace" font-size="12" fill="white" text-anchor="middle">
+        Replace with your profile image
+      </text>
+    </pattern>
+  </defs>
+  
+  <!-- Main Background -->
+  <rect width="100%" height="100%" fill="url(#gradient)" />
+  
+  <!-- Decorative Code Particles -->
+  <g filter="url(#glow)">
+    <!-- Code symbols scattered around -->
+    <text x="100" y="50" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">const profile = {</text>
+    <text x="120" y="70" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  name: "Simon Wachira",</text>
+    <text x="120" y="90" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  role: "Software Engineer",</text>
+    <text x="120" y="110" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  skills: ["Web", "Mobile", "UI/UX"]</text>
+    <text x="100" y="130" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">};</text>
+    
+    <text x="800" y="150" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">function createSolution() {</text>
+    <text x="820" y="170" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  return innovation.apply(technology);</text>
+    <text x="800" y="190" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">}</text>
+    
+    <text x="700" y="250" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">// Passionate about code</text>
+    <text x="700" y="270" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">while(true) {</text>
+    <text x="720" y="290" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  learn();</text>
+    <text x="720" y="310" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  build();</text>
+    <text x="720" y="330" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  improve();</text>
+    <text x="700" y="350" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">}</text>
+    
+    <!-- Tech symbols -->
+    <text x="100" y="300" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">&lt;/&gt;</text>
+    <text x="150" y="350" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">{}</text>
+    <text x="900" y="100" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">( )</text>
+    <text x="950" y="50" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">&lt;/&gt;</text>
+    <text x="1000" y="350" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">#</text>
+  </g>
+  
+  <!-- Profile Picture Circle -->
+  <circle cx="240" cy="200" r="120" fill="#0FCCCE" opacity="0.1" stroke="#0FCCCE" stroke-width="2" />
+  <circle cx="240" cy="200" r="120" fill="url(#profileImage)" clip-path="url(#circleClip)" />
+  
+  <!-- Profile Text Area -->
+  <text x="450" y="170" font-family="'Fira Code', monospace" font-size="40" fill="#FFFFFF" text-anchor="start">Simon Wachira</text>
+  <text x="450" y="220" font-family="'Fira Code', monospace" font-size="24" fill="#0FCCCE" text-anchor="start">Software Engineer &amp; Creative Director</text>
+  <text x="450" y="260" font-family="'Fira Code', monospace" font-size="18" fill="#FFFFFF" opacity="0.8" text-anchor="start">Crafting clean code and elegant solutions</text>
+  
+  <!-- Animated Glowing Border (SVG animation) -->
+  <rect x="5" y="5" width="1190" height="390" fill="none" stroke="#0FCCCE" stroke-width="3" rx="10" ry="10" opacity="0.8">
+    <animate attributeName="stroke-opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="stroke-width" values="2;4;2" dur="4s" repeatCount="indefinite" />
+  </rect>
+</svg>
 <!--   <img src="https://github.com/Simonwachira7318/Simonwachira7318/blob/main/cover.png?raw=true" alt="Simon Wachira Banner" width="100%"> -->
 </div>
 
