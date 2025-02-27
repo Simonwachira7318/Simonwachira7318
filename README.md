@@ -1,81 +1,5 @@
 <!-- Header Banner with Animated Code Effect -->
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 400">
-  <!-- Gradient Background -->
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117" />
-      <stop offset="50%" stop-color="#161B22" />
-      <stop offset="100%" stop-color="#0D1117" />
-    </linearGradient>
-    
-    <!-- Glowing effect for code particles -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-    
-    <!-- Profile picture mask for circular crop -->
-    <clipPath id="circleClip">
-      <circle cx="240" cy="200" r="120" />
-    </clipPath>
-    
-    <!-- Profile picture placeholder with note to replace URL -->
-    <pattern id="profileImage" patternUnits="userSpaceOnUse" width="240" height="240">
-      <!-- This is a placeholder. Replace with your actual profile picture URL -->
-      <rect width="240" height="240" fill="#0FCCCE" opacity="0.3" />
-      <text x="120" y="120" font-family="monospace" font-size="12" fill="white" text-anchor="middle">
-        Replace with your profile image
-      </text>
-    </pattern>
-  </defs>
-  
-  <!-- Main Background -->
-  <rect width="100%" height="100%" fill="url(#gradient)" />
-  
-  <!-- Decorative Code Particles -->
-  <g filter="url(#glow)">
-    <!-- Code symbols scattered around -->
-    <text x="100" y="50" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">const profile = {</text>
-    <text x="120" y="70" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  name: "Simon Wachira",</text>
-    <text x="120" y="90" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  role: "Software Engineer",</text>
-    <text x="120" y="110" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  skills: ["Web", "Mobile", "UI/UX"]</text>
-    <text x="100" y="130" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">};</text>
-    
-    <text x="800" y="150" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">function createSolution() {</text>
-    <text x="820" y="170" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  return innovation.apply(technology);</text>
-    <text x="800" y="190" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">}</text>
-    
-    <text x="700" y="250" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">// Passionate about code</text>
-    <text x="700" y="270" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">while(true) {</text>
-    <text x="720" y="290" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  learn();</text>
-    <text x="720" y="310" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  build();</text>
-    <text x="720" y="330" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">  improve();</text>
-    <text x="700" y="350" font-family="monospace" font-size="14" fill="#0FCCCE" opacity="0.7">}</text>
-    
-    <!-- Tech symbols -->
-    <text x="100" y="300" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">&lt;/&gt;</text>
-    <text x="150" y="350" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">{}</text>
-    <text x="900" y="100" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">( )</text>
-    <text x="950" y="50" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">&lt;/&gt;</text>
-    <text x="1000" y="350" font-family="monospace" font-size="18" fill="#0FCCCE" opacity="0.5">#</text>
-  </g>
-  
-  <!-- Profile Picture Circle -->
-  <circle cx="240" cy="200" r="120" fill="#0FCCCE" opacity="0.1" stroke="#0FCCCE" stroke-width="2" />
-  <circle cx="240" cy="200" r="120" fill="url(#profileImage)" clip-path="url(#circleClip)" />
-  
-  <!-- Profile Text Area -->
-  <text x="450" y="170" font-family="'Fira Code', monospace" font-size="40" fill="#FFFFFF" text-anchor="start">Simon Wachira</text>
-  <text x="450" y="220" font-family="'Fira Code', monospace" font-size="24" fill="#0FCCCE" text-anchor="start">Software Engineer &amp; Creative Director</text>
-  <text x="450" y="260" font-family="'Fira Code', monospace" font-size="18" fill="#FFFFFF" opacity="0.8" text-anchor="start">Crafting clean code and elegant solutions</text>
-  
-  <!-- Animated Glowing Border (SVG animation) -->
-  <rect x="5" y="5" width="1190" height="390" fill="none" stroke="#0FCCCE" stroke-width="3" rx="10" ry="10" opacity="0.8">
-    <animate attributeName="stroke-opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite" />
-    <animate attributeName="stroke-width" values="2;4;2" dur="4s" repeatCount="indefinite" />
-  </rect>
-</svg>
 <!--   <img src="https://github.com/Simonwachira7318/Simonwachira7318/blob/main/cover.png?raw=true" alt="Simon Wachira Banner" width="100%"> -->
 </div>
 
@@ -89,27 +13,72 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=0FCCCE&center=true&vCenter=true&width=900&lines=%24+whoami;Passionate+software+engineer+crafting+clean+%26+efficient+code;%24+cat+about.me;Software+specialist+with+experience+in+frontend%2C+backend+%26+mobile+apps;%24+./expertise.sh" alt="Terminal Commands">
 </div>
 
-<!-- About Me with Creative Cards -->
+<!-- About Me with Enhanced Creative Cards -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=0FCCCE&center=true&vCenter=true&width=500&lines=~/simon/about.me;Loading+profile+data...;Initialization+complete!" alt="Profile Loading Animation">
 </div>
 
 <div align="center">
-  <table align="center">
-  <tr>
-    <td>
-      <h3>👨‍💻 Profile</h3>
-      <img width="200" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball">
-      <ul>
-        <li><b>Name:</b> Simon Wachira Maina</li>
-        <li><b>Title:</b> Software Engineer & Creative Director</li>
-        <li><b>Location:</b> Kutus, Kirinyaga County, Kenya</li>
-        <li><b>Email:</b> simonwachira7318@gmail.com</li>
-        <li><b>Phone:</b> +254 115256 304</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <table align="center" width="100%" border="0" cellspacing="0" cellpadding="10" style="border-collapse: separate; border-spacing: 0 15px;">
+    <tr>
+      <td align="center" style="background-color: rgba(15, 204, 206, 0.05); border-radius: 16px; border: 1px solid rgba(15, 204, 206, 0.2); padding: 25px;">
+        <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" width="30" height="30" alt="Tech"> <b>Profile</b></h3>
+        
+        <img width="200" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball">
+        
+        <div align="left">
+          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="20" height="20" alt="Name"> <b>Name:</b> Simon Wachira Maina</p>
+          
+          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" height="20" alt="Title"> <b>Title:</b> Software Engineer & Creative Director</p>
+          
+          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Africa.png" width="20" height="20" alt="Location"> <b>Location:</b> Kutus, Kirinyaga County, Kenya</p>
+          
+          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="20" height="20" alt="Email"> <b>Email:</b> simonwachira7318@gmail.com</p>
+          
+          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="20" height="20" alt="Phone"> <b>Phone:</b> +254 115256 304</p>
+          
+          <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="20" height="20" alt="About"> <b>About Me:</b> Passionate software engineer with a knack for creating elegant, efficient solutions to complex problems. I enjoy transforming ideas into reality through code.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Quick Stats Section -->
+<div align="center">
+  <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" alt="Projects">
+        <h4>10+</h4>
+        <p>Projects</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="40" height="40" alt="Experience">
+        <h4>2+</h4>
+        <p>Years Experience</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="40" height="40" alt="Technologies">
+        <h4>15+</h4>
+        <p>Technologies</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Clients">
+        <h4>5+</h4>
+        <p>Happy Clients</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Current Focus -->
+<div align="center">
+  <h4>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="20" height="20" alt="Current Focus">
+    <b>Currently focusing on:</b>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0FCCCE&center=true&vCenter=true&width=250&lines=Cloud+Architecture;React+Native+Development;UI%2FUX+Design;Machine+Learning" alt="Current Focus">
+  </h4>
 </div>
 
 <!-- Education Section with Timeline -->
