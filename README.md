@@ -37,7 +37,7 @@
 </div>
 
 <!-- Education Section with Timeline -->
-<h3>🎓 Education Journey</h3>
+<h3 align="center">🎓 Education Journey</h3>
 
 <div align="center">
   <table>
