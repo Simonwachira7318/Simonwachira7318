@@ -48,7 +48,7 @@
       </td>
       <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="40" height="40" alt="Experience">
-        <h4>2+</h4>
+        <h4>3+</h4>
         <p>Years Experience</p>
       </td>
       <td align="center" width="25%">
@@ -58,7 +58,7 @@
       </td>
       <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Clients">
-        <h4>5+</h4>
+        <h4>10+</h4>
         <p>Happy Clients</p>
       </td>
     </tr>
@@ -194,7 +194,7 @@
   <a href="https://www.linkedin.com/in/simon-wachira-680b88268">
     <img src="https://img.shields.io/badge/LinkedIn-0FCCCE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/@Its_wachira2">
+  <a href="https://twitter.com/@_its_wachira">
     <img src="https://img.shields.io/badge/Twitter-0FCCCE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:simonwachira7318@gmail.com">
