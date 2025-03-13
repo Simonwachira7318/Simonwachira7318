@@ -10,10 +10,6 @@
 </div> 
 <br>
 
-<!-- Teal Terminal Intro -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=0FCCCE&center=true&vCenter=true&width=900&lines=%24+whoami;Passionate+software+engineer+crafting+clean+%26+efficient+code;%24+cat+about.me;Software+specialist+with+experience+in+frontend%2C+backend+%26+mobile+apps;%24+./expertise.sh" alt="Terminal Commands">
-</div>
 
 <!-- About Me with Enhanced Creative Cards -->
 <!-- About Me with Creative Cards -->
