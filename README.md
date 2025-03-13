@@ -4,9 +4,11 @@
 </div>
 
 <!-- Animated Typing Name -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0FCCCE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Simon+Wachira;%3C%2F+Software+Engineer+%3E;%3C%2F+Web+Developer+%3E;%3C%2F+Mobile+Developer+%3E" alt="Simon Wachira - Software Engineer">
-</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Simon Wachira" alt="Typing SVG" /></a>
+</div> 
+<br>
 
 <!-- Teal Terminal Intro -->
 <div align="center">
