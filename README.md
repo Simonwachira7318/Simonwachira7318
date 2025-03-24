@@ -23,10 +23,7 @@
 
 <div align="center">
   <kbd>
-    <br>
-    <h3>👨‍💻 Profile</h3>
     <img width="200" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball">
-    <br>
   </kbd>
 </div>
 
