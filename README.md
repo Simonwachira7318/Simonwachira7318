@@ -34,7 +34,7 @@
         <td align="center" width="25%">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="40" height="40" alt="Experience">
           <h4>3+</h4>
-          <p>Years Experience</p>
+          <p>Yrs XP</p>
         </td>
         <td align="center" width="25%">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="40" height="40" alt="Technologies">
@@ -44,7 +44,7 @@
         <td align="center" width="25%">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Clients">
           <h4>20+</h4>
-          <p>Happy Clients</p>
+          <p>Clients</p>
         </td>
       </tr>
     </table>
