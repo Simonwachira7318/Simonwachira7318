@@ -43,7 +43,7 @@
         </td>
         <td align="center" width="25%">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Clients">
-          <h4>10+</h4>
+          <h4>20+</h4>
           <p>Happy Clients</p>
         </td>
       </tr>
