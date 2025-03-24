@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0FCCCE&height=100&section=header&text=Simon%20Wachira&fontSize=40&fontColor=FFFFFF" alt="Header Banner">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0FCCCE&height=100&section=header&text=SIMON%20WACHIRA&fontSize=40&fontColor=FFFFFF" alt="Header Banner">
   </div>
   
   <!-- Animated Typing Name -->
@@ -334,13 +334,14 @@
     <p><i>"To serve as a catalyst for technological innovation that changes lives and enables organizations to achieve more."</i></p>
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=0FCCCE&center=true&vCenter=true&width=600&lines=Let's+collaborate+and+build+something+amazing+together!" alt="Collaboration Invitation">
   </div>
-  
+
+
+  <br>
+  <br>
   <!-- Footer with Animation -->
   <div align="center">
     <p>👨‍💻 Thanks for visiting my profile! Let's connect and build something amazing together.</p>
   </div>
-  
-<br>
 <!-- Visitor Count -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/Simonwachira7318/count.svg" alt="Visitor Count">
