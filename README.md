@@ -26,14 +26,6 @@
     <br>
     <h3>👨‍💻 Profile</h3>
     <img width="200" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball">
-    <ul align="left">
-      <li><b>👤 Name:</b> Simon Wachira Maina</li>
-      <li><b>💼 Title:</b> Software Engineer & Creative Director</li>
-      <li><b>📍 Location:</b> Kutus, Kirinyaga County, Kenya</li>
-      <li><b>📧 Email:</b> simonwachira7318@gmail.com</li>
-      <li><b>📱 Phone:</b> +254 115256 304</li>
-      <li><b>💭 About Me:</b> Passionate software engineer with a knack for creating elegant, efficient solutions</li>
-    </ul>
     <br>
   </kbd>
 </div>
