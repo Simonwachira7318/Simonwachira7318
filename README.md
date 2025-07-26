@@ -121,39 +121,6 @@
     </table>
   </div>
   
-  <!-- Key Achievements with Text-Based Progress -->
-  <h3>🏆 Key Achievements</h3>
-  
-  <table>
-    <tr>
-      <td>
-        <div>
-          <h4>E-commerce Platform</h4>
-          <p>Increased sales by 40% within six months</p>
-          <p>█████████████████████░░░░░░░░░░░░ 40%</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          <h4>Web Application</h4>
-          <p>Enhanced user engagement by 30%</p>
-          <p>████████████████░░░░░░░░░░░░░░░░ 30%</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          <h4>Website Redesign</h4>
-          <p>Improved load times and usability by 25%</p>
-          <p>█████████████░░░░░░░░░░░░░░░░░░░ 25%</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-  
   <!-- Daily Quote with Terminal Style -->
   <div align="center">
     <h3>$ echo "Today's Inspiration" | cowsay</h3>
