@@ -301,7 +301,8 @@
   <div align="center">
     <p>👨‍💻 Thanks for visiting my profile! Let's connect and build something amazing together.</p>
   </div>
+
 <!-- Visitor Count -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Simonwachira7318/count.svg" alt="Visitor Count">
+  ![](https://komarev.com/ghpvc/?username=Simonwachira7318)
 </div>
