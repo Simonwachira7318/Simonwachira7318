@@ -303,6 +303,7 @@
   </div>
 
 <!-- Visitor Count -->
+<!-- Visitor Count -->
 <div align="center">
-  ![](https://api.visitorbadge.io/api/VisitorHit?user=Simonwachira7318&repo=Simonwachira7318&countColor=%237B1E7A)
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Simonwachira7318&repo=Simonwachira7318&countColor=%237B1E7A" alt="Visitor Count"/>
 </div>
