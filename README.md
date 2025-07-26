@@ -12,14 +12,6 @@
   
   <br>
   
-  <!-- About Me -->
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=0FCCCE&center=true&vCenter=true&width=500&lines=~/simon/about.me;Loading+profile+data...;Initialization+complete!" alt="Profile Loading Animation">
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=500&color=0FCCCE&center=true&vCenter=true&width=900&lines=%24+whoami;Passionate+software+engineer+crafting+clean+%26+efficient+code;%24+cat+about.me;A+Specialist+with+experience+in+frontend%2C+backend%2C+mobile+apps;%24+./expertise.sh" alt="Terminal Commands">
-    </div>
-  </div>
-  
   <br>
   
   <!-- Quick Stats -->
