@@ -303,4 +303,6 @@
   </div>
 
 <!-- Visitor Count -->
-<div align="center">![](https://komarev.com/ghpvc/?username=Simonwachira7318)</div>
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=Simonwachira7318)
+</div>
