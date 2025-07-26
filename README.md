@@ -49,7 +49,7 @@
     <h4>
 <!--       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="20" height="20" alt="Current Focus"> -->
 <!--       <b>Currently focusing on:</b> -->
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0FCCCE&center=true&vCenter=true&width=250&lines=Cloud+Architecture;React+Native+Development;UI%2FUX+Design;Machine+Learning" alt="Current Focus">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0FCCCE&center=true&vCenter=true&width=250&lines=Cloud+Architecture;React+Native+Development;UI%2FUX+Design;FullStack+Development" alt="Current Focus">
     </h4>
   </div>
   
