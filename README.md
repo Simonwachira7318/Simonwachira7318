@@ -304,5 +304,5 @@
 
 <!-- Visitor Count -->
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=Simonwachira7318)
+  ![](https://api.visitorbadge.io/api/VisitorHit?user=Simonwachira7318&repo=Simonwachira7318&countColor=%237B1E7A)
 </div>
