@@ -63,7 +63,7 @@
           <div align="center">
             <h4>🏫 Kirinyaga University</h4>
             <p><i>Bachelor of Science in Software Engineering</i></p>
-            <p><b>2021 - Present</b> | Expected Graduation: September 2025</p>
+<!--             <p><b>2021 - Present</b> | Expected Graduation: September 2025</p> -->
           </div>
         </td>
       </tr>
