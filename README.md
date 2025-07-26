@@ -20,7 +20,7 @@
       <tr>
         <td align="center" width="25%">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" alt="Projects">
-          <h4>70+</h4>
+          <h4>80+</h4>
           <p>Projects</p>
         </td>
         <td align="center" width="25%">
